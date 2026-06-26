@@ -102,9 +102,6 @@ The final step. The design underwent strict geometric and electrical verificatio
 
 ## 📂 Repository Structure
 
-<details>
-<summary><b>Click to expand and explore the directory layout! 🔍</b></summary>
-
 ```text
 ├── decoder_ss/          # Visuals, screenshots, and reports for documentation
 ├── src/                 # Verilog source codes and testbenches
