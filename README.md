@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 10:1024 Decoder 
+# 10:1024 Decoder from RTL to GDSII 
 ### A Silicon Journey: Solving High Fanout from RTL to GDSII
 
 [![OpenLane](https://img.shields.io/badge/OpenLane-1.0.2-blue.svg)](https://github.com/The-OpenROAD-Project/OpenLane)
